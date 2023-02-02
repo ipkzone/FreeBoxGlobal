@@ -7,7 +7,7 @@ View tools FreeBoxGlobal
 Installations tools FreeboxGlobal command in ![terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label&cache=500)
 ```
 $ git clone https://github.com/ipkzone/FreeBoxGlobal
-$ cd /FreeBoxGlobal
+$ cd FreeBoxGlobal
 $ php freebox.php --freebox
 ```
 
