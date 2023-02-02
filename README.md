@@ -5,6 +5,12 @@ View tools FreeBoxGlobal
 <center><img src="freebox.png" alt="freebox"></center>
 
 Installations tools FreeboxGlobal command in ![terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label&cache=500)
+
+Example ( https://shop.freeboxglobal.com/app/cash?code=266UUZ&id=7258193118367842304 )
+> Edit file config.json<br>
+> Refferal code -> 266UUZ<br>
+> ID Account -> 7258193118367842304
+
 ```
 $ git clone https://github.com/ipkzone/FreeBoxGlobal
 $ cd FreeBoxGlobal
